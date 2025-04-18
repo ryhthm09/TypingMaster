@@ -1,4 +1,4 @@
-githu
+
 # 📝 Typing Master
 
 A sleek and efficient **Typing Speed Test** application built with **HTML**, **CSS**, and **JavaScript**. Practice typing accuracy and speed with dynamic sentence rendering, real-time feedback, and performance metrics tracking.
