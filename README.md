@@ -17,7 +17,8 @@ A sleek and efficient **Typing Speed Test** application built with **HTML**, **C
 
 ## 📸 Demo
 
-![Typing-Master Screenshot](https://github.com/user-attachments/assets/placeholder-image)
+![UI](https://github.com/user-attachments/assets/15034a76-46f9-448e-8e15-8431dee928e5)
+
 
 ---
 
