@@ -14,6 +14,8 @@ A sleek and efficient **Typing Speed Test** application built with **HTML**, **C
 - 📱 Fully responsive design  
 
 ---
+[![View on GitHub Pages](https://img.shields.io/badge/View-Live%20Demo-blue?style=for-the-badge&logo=github)](https://ryhthm09.github.io/TypingMaster/)
+
 
 ## 📸 Demo
 
